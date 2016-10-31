@@ -1,4 +1,4 @@
-FROM mohamnag/gradle:2.14.1
+FROM mohamnag/gradle
 MAINTAINER Mohammad Naghavi <mohamnag@gmail.com>
 
 RUN apt-get update && \
